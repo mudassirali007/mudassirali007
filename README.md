@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://www.indiehackers.com/post/clipping-magic-and-glorifyapp-bg-remover-105f0b8235
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
