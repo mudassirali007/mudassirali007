@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mudassir Ali</h1>
 <h3 align="center">I am enthusiastic software developer since my childhood. I work as a Senior Full Stack Software Engineer in WEB Technologies.</h3>
+<p align="center">I am a SaaS developer, I am working as a professional since 2019 and have experience in advanced JavaScript, Typescript, VueJS, ReactJS, SASS/SCSS, AJAX, jQuery, Bootstrap, Laravel, Codeigniter and CakePHP.
+I consider myself a person who follows modern web development practices and new technologies.
+
+Would be happy to help you with your project, feel free to share your ideas and we will discuss how we can collaborate to make your project successful.
+
+My technical skills:
+- Back-end: PHP
+- Database: MySQL, MariaDB
+- Frameworks: Laravel, CodeIgniter
+- I have experience with Shopify API
+- Front-end: JavaScript (jQuery, jQuery UI, Bootstrap, VueJs). HTML5, XHTML, CSS3 + Bootstrap.
+- Version control: GIT
+- Docker
+- Linux Server Setup
+
+I'm available via Skype, WhatsApp, Upwork, and email or visit mudassirali.com
+
+I listen to you, understand your specifications, and ask questions if it is necessary. I’m a reliable worker, and I promise to do a job well in time. Then I do my best.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudassirali007&label=Profile%20views&color=0e75b6&style=flat" alt="mudassirali007" /> </p>
 
